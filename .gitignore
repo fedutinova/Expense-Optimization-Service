@@ -1,0 +1,16 @@
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+
+.env
+
+.DS_Store
+
+# Ignore node_modules
+node_modules/
+
+# Ignore build and dist directories
+/build/
+/dist/
